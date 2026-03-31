@@ -1,6 +1,6 @@
 # TreeCrown-MM: A Multimodal Remote Sensing Dataset for Joint Tree Crown Segmentation and Description
 
-**Mengjiao Tang, Sheng Xu, Yu Shen\*, Qiaolin Ye\***
+**Mengjiao Tang, Yue Li, Sheng Xu, Yu Shen\*, Qiaolin Ye\***
 
 Nanjing Forestry University
 
