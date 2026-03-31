@@ -10,8 +10,16 @@ Nanjing Forestry University
 </p>
 
 <p align="center">
-  <img src="assets/fig1.png" width="90%">
+  <img src="assets/fig1.jpg" width="90%">
 </p>
+
+**Figure 1**: Geographic distribution of the five TreeCrown-MM scene types, with image and species statistics.
+
+<p align="center">
+  <img src="assets/fig2.jpg" width="60%">
+</p>
+
+**Figure 2**: Representative quadruplets (RGB, DSM, Mask, Text) from TreeCrown-MM. Masks are colored by species.
 
 ## Highlights
 
@@ -41,4 +49,4 @@ Coming soon.
 
 ## License
 
-The TreeCrown-MM annotations and metadata are released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Source imagery is subject to the original license of each source dataset. Please refer to the individual datasets listed in Acknowledgments for details.
+The TreeCrown-MM annotations and metadata are released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Source imagery is subject to the original license of each source dataset.
