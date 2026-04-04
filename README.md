@@ -6,27 +6,24 @@
 
 <br>
 
-**Mengjiao Tang&emsp;·&emsp;Yue Li&emsp;·&emsp;Sheng Xu&emsp;·&emsp;Yu Shen*&emsp;·&emsp;Qiaolin Ye***
+Mengjiao Tang &emsp; Yue Li &emsp; Sheng Xu &emsp; Yu Shen* &emsp; Qiaolin Ye*
 
 Nanjing Forestry University
 
+\* *Corresponding authors*
+
 <br>
 
-<a href="https://github.com/huafei18/TreeCrown-MM/blob/main/TreeCrown-MM.pdf">
-  <img src="https://img.shields.io/badge/📄_Paper-PDF-b31b1b?style=for-the-badge" alt="Paper">
+<a href="https://github.com/huafei18/TreeCrown-MM/blob/main/docs/TreeCrown-MM.pdf">
+  <img src="https://img.shields.io/badge/Paper-PDF-D32F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" height="25" alt="Paper">
 </a>
-&nbsp;
+&ensp;
 <a href="https://huggingface.co/datasets/huafei-77/TreeCrown-MM">
-  <img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffd21e?style=for-the-badge" alt="Dataset">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-FFD21E?style=flat-square" height="25" alt="Dataset">
 </a>
-&nbsp;
-<a href="https://github.com/huafei18/TreeCrown-MM">
-  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" alt="Code">
-</a>
-
-<br>
+&ensp;
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">
-  <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-929292?style=flat-square" height="25" alt="License">
 </a>
 
 </div>
