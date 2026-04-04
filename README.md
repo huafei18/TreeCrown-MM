@@ -1,25 +1,49 @@
-# TreeCrown-MM: A Multimodal Remote Sensing Dataset for Joint Tree Crown Segmentation and Description
+<div align="center">
 
-**Mengjiao Tang, Yue Li, Sheng Xu, Yu Shen\*, Qiaolin Ye\***
+# TreeCrown-MM
+
+### A Multimodal Remote Sensing Dataset for Joint Tree Crown Segmentation and Description
+
+<br>
+
+**Mengjiao Tang&emsp;·&emsp;Yue Li&emsp;·&emsp;Sheng Xu&emsp;·&emsp;Yu Shen*&emsp;·&emsp;Qiaolin Ye***
 
 Nanjing Forestry University
 
-<p>
-  <a href="#">[Paper]</a> •
-  <a href="#">[Dataset]</a>
-</p>
+<br>
+
+<a href="https://github.com/huafei18/TreeCrown-MM/blob/main/TreeCrown-MM.pdf">
+  <img src="https://img.shields.io/badge/📄_Paper-PDF-b31b1b?style=for-the-badge" alt="Paper">
+</a>
+&nbsp;
+<a href="https://huggingface.co/datasets/huafei-77/TreeCrown-MM">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffd21e?style=for-the-badge" alt="Dataset">
+</a>
+&nbsp;
+<a href="https://github.com/huafei18/TreeCrown-MM">
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github" alt="Code">
+</a>
+
+<br>
+<a href="https://creativecommons.org/licenses/by-nc/4.0/">
+  <img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey?style=flat-square" alt="License">
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
   <img src="assets/fig1.jpg" width="90%">
 </p>
 
-**Figure 1**: Geographic distribution of the five TreeCrown-MM scene types, with image and species statistics.
+<p align="center"><b>Figure 1</b>: Geographic distribution of the five TreeCrown-MM scene types, with image and species statistics.</p>
 
 <p align="center">
   <img src="assets/fig2.jpg" width="60%">
 </p>
 
-**Figure 2**: Representative quadruplets (RGB, DSM, Mask, Text) from TreeCrown-MM. Masks are colored by species.
+<p align="center"><b>Figure 2</b>: Representative quadruplets (RGB, DSM, Mask, Text) from TreeCrown-MM. Masks are colored by species.</p>
 
 ## Highlights
 
@@ -31,7 +55,7 @@ Nanjing Forestry University
 
 ## Dataset Download
 
-The dataset will be publicly available on HuggingFace upon publication.
+The dataset is publicly available on [🤗 HuggingFace](https://huggingface.co/datasets/huafei-77/TreeCrown-MM).
 
 <!-- 
 | Split | Tiles | Usage |
