@@ -52,6 +52,10 @@ Nanjing Forestry University
 
 The dataset is publicly available on [🤗 HuggingFace](https://huggingface.co/datasets/huafei-77/TreeCrown-MM).
 
+## Supplementary Material
+
+The supplementary material is available [here](https://github.com/huafei18/TreeCrown-MM/blob/main/docs/supplement.pdf).
+
 ## Citation
 
 Coming soon.
